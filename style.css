@@ -1,0 +1,96 @@
+/* @import url('https://fonts.googleapis.com/css2family=Roboto:wght@400;500;700;900&display=swap'); */
+
+
+.frank{
+    background-image: url(img/frankfurt.jpg);
+    height: 600px;
+    background-size: cover;
+    padding-top: 60px;
+    
+}
+
+.ff{
+    padding-top: 30px;
+}
+
+.f1{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.f2{
+    display: flex;
+    color: rgb(98, 98, 218);
+    justify-content: space-evenly;
+    font-size: 15px;
+    font-family: sans-serif;
+  
+}
+
+.f2 h4{
+    color: rgb(184, 184, 171);
+}
+
+.f2 .d1{
+    line-height: 0px;
+}
+
+.f2 .d1 h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.f3{
+    background-color: rgb(141, 141, 216);
+    height: 6px;
+    width: 20px;
+    margin-top: 60px;
+}
+
+.f4{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(184, 184, 171);
+    list-style: none;
+
+}
+
+.f5{
+    display: flex;
+    justify-content: space-evenly;
+    color:  rgb(184, 184, 171);
+}
+
+.f5 h4{
+    color: black;
+}
+
+.f5 ul{
+    line-height: 0px;
+    list-style: none;
+}
+
+.f6{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.f62{
+    line-height: 0px;
+}
+
+.f6 h5{
+    color:  rgb(184, 184, 171);;
+}
+
+.f6 h4{
+    color: black;
+}
+
+.f7{
+    padding-top: 20px;
+}
